@@ -1,0 +1,6 @@
+{
+  "name": "Sistema Monarca",
+  "description": "Sistema de estudio técnico estilo Manhwa del Monarca de las Sombras para dominar electricidad residencial e industrial, refrigeración, controles y PLC con tutor IA y persistencia SQLite.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
